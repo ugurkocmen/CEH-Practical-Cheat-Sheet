@@ -337,3 +337,6 @@ https://www.scribd.com/document/820253578/CEH-Practical-Exam-All-You-Need-to-Kno
 https://www.scribd.com/document/982027254/Ceh-Practical-One-pagesheet#google_vignette
 https://www.scribd.com/document/965716116/CEH-Practical-Cheat-Sheet-2025
 https://github.com/drgoteee/drgoteee.github.io
+https://www.netexec.wiki/
+https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes
+https://team-anonymous.gitbook.io/certified-red-team-professional-crtp-notes
